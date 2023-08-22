@@ -1,0 +1,3 @@
+30 6 * * * /data/data/com.termux/files/home/school_menu_notif/main.py 조식
+0 12 * * * /data/data/com.termux/files/home/school_menu_notif/main.py 중식
+20 18 * * * /data/data/com.termux/files/home/school_menu_notif/main.py 석식
